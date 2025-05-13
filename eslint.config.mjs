@@ -21,6 +21,7 @@ const eslintConfig = [
       "@typescript-eslint/no-unused-vars": "off",
       "no-console": "off",
       "no-undef": "off",
+      "react/no-unescaped-entities": "off",
       // Add more as needed, or use a wildcard tool/plugin to disable all
     },
   },
